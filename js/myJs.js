@@ -49,6 +49,8 @@ $(document).ready(function () {
   function switchButton() {
     var audio = new Audio("sound/duck.mp3");
     audio.play();
+    var audio = new Audio("sound/PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | HUY VẠC COVER.mp3");
+    audio.play();
     var leftNo = $("#no").css("left");
     var topNO = $("#no").css("top");
     var leftY = $("#yes").css("left");
