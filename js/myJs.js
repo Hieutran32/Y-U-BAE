@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Mến gửi chú tể của những sự ngu THUỶ :))",
+  text1: "Mến gửi chúa tể của những sự ngu THUỶ :))",
   text2: "Tao có điều này thắc mắc lâu lắm rồi.",
   text3: "Mày bị ngu bẩm sinh có phái z hơm",
   text4: "Nếu mày không trả lời mà thoát ra tức là mày ngu thật :v",
