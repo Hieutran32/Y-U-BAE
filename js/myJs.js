@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "BÉ YÊU CỦA Lanh ĐÂY",
-  text2: "Anh có điều này muốn hỏi, em trả lời điêu anh đấm vào mỏ.",
-  text3: "Em yêu tớ siu siu nhiều có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tao rồi đấy :v",
+  text1: "Mến gửi chú tể của những sự ngu THUỶ :))",
+  text2: "Tao có điều này thắc mắc lâu lắm rồi.",
+  text3: "Mày bị ngu bẩm sinh có phái z hơm",
+  text4: "Nếu mày không trả lời mà thoát ra tức là mày ngu thật :v",
   text5: "Có cứt",
-  text6: "Yêu ơi là yêu <3",
-  text7: "Nói lí do bae thích tớ đi :vvvv",
+  text6: "Vâng, em ngu từ nhỏ",
+  text7: "Nói lí do bae bị ngu đi :vvvv",
   text8: "Gửi cho tao <3",
-  text9: "Vì darling của em TOẸT VỜI ÔNG MẶT TRỜI VL",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000(giả vờ thôi -.-)",
+  text9: "Vì tao hay ăn lười làm, suốt ngày cắm đầu vào văn hoá phẩm đồi truỵ",
+  text10: "Tớ biết mà ^^ Tớ thông cảm cho hoàn cảnh đáng thương của cậu",
   text11:
-    "Bên tớ mãi mãi nhé, tớ sẽ ăn thịt cậu sớm thôi",
+    "Một vé thẳng vào viện Trâu Quỳ cho cậu",
   text12: "Okii darling <3",
 };
 
